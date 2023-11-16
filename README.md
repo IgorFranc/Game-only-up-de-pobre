@@ -34,3 +34,8 @@ https://youtu.be/6wPTAaCYQtM
 - Produzido por Igor França Cintra
 - Auxiliar Pietro Gonçalves Fernandes 
 
+# Lembrete
+
+Vale lembrar que é um prototipo, uma versão simples do começo do jogo, no qual será implementados futuramentes mais efeitors sonoros, trilhas sonoras
+conquistas ao atingir objetivo, outros objetivos, e correção de bugs. 
+
