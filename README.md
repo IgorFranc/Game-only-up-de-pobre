@@ -31,6 +31,6 @@ https://youtu.be/6wPTAaCYQtM
 
 # Creditos
 
-Produzido por Igor França Cintra 
-Auxiliar Pietro Gonçalves Fernandes 
+- Produzido por Igor França Cintra
+- Auxiliar Pietro Gonçalves Fernandes 
 
