@@ -1,4 +1,6 @@
-![image](https://github.com/IgorFranc/Game-only-up-de-pobre/assets/70240398/461fc9ed-73f1-4bf8-9f7f-b19eab2657ba)# Game-Only-Parkour
+![image](https://github.com/IgorFranc/Game-only-up-de-pobre/assets/70240398/461fc9ed-73f1-4bf8-9f7f-b19eab2657ba)
+
+# Game-Only-Parkour
 
 Jogo desenvolvido na Unreal Engine 5
 
@@ -23,7 +25,7 @@ ao olhar ao redor, vemos que possui essa estatuar no orizonte:
 
 E é la em que o o jogar deve tentar chegar.
 
-#Gameplay
+# Gameplay
 
 Segue um video de como é a gameplay do jogo:
 
