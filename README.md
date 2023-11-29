@@ -10,8 +10,8 @@ Assets Utilizadas (Free):
 
 # Descrição
 
-Um jogo desenvolvido em um ambiente muito bem construido, no qual o jogador cumprir o obejetivo de chegar a estatua de um anjo que fica no topo
-de uma torre bem longe do local de origem, e para chegar la, ele tera que passar por muitos obstaculos sem cair
+Um jogo desenvolvido em um ambiente muito bem construido, no qual o jogador deve cumprir o objetivo de chegar há estatua de um anjo que fica no topo
+de uma torre longe do local de origem, e para chegar la, ele terá que passar por muitos obstaculos, sem cair.
 
 Ao iniciar o jogo vemos a imagem a seguir:
 
